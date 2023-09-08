@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "mobile-lapalapa-apps-production",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_production.dart"
+        },
+        {
+            "name": "mobile-lapalapa-apps-development",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_dev.dart"
+        },  
+        {
+            "name": "mobile-lapalapa-apps-staging",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_staging.dart"
+        },  
+        {
+            "name": "mobile-lapalapa-apps (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/main_dev.dart"
+        },
+        {
+            "name": "mobile-lapalapa-apps (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/main_dev.dart"
+        }
+    ]
+}

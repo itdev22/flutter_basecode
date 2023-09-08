@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528404073879",
+    "project_id": "lapalapa-apps",
+    "storage_bucket": "lapalapa-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528404073879:android:de4f7995190319369f08d2",
+        "android_client_info": {
+          "package_name": "com.lapalapa.mobile_lapalapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528404073879-ec011ahsk2rfdk1r2d1bjvhe6diiatqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lapalapa.mobile_lapalapa",
+            "certificate_hash": "4601c81b67d4418081cbcb9426662ac35711f931"
+          }
+        },
+        {
+          "client_id": "528404073879-9a82kq4bfvoqj4f59de78o612237npdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoFo-qNXDynplxMbdXCv8r-nlPu8IMRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528404073879-9a82kq4bfvoqj4f59de78o612237npdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
